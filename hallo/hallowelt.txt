@@ -1,0 +1,36 @@
+"Hallo Welt" ist eine kurze Übung für die einfachsten Funktionen von GIT und GITHUB.
+
+Fügen Sie dieser Datei unter der Linie einige Zeilen hinzu. Wenn unter der Linie schon etwas steht, dann haben Andere schon an dieser Datei mitgewirkt. Tragen Sie außerdem in den Bereich "Namen" Ihren Vornamen ein.
+
+Wie übertragen Sie Ihre Änderungen in das Projekt?
+
+1. Bearbeiten Sie diese Datei
+
+2. Erstellen Sie einen eigenen "Branch" mit dem Namen feature-VORNAME (=Ihr Vorname)
+git checkout -m feature-VORNAME
+
+3. Fügen Sie alle Dateien dem Index hinzu:
+git add *
+
+4. Führen Sie einen "Commit" durch:
+git commit -m "Commit-Nachricht"
+
+5. Laden Sie Ihren Branch zu Github hoch:
+git push -u origin feature-VORNAME
+
+6. Melden Sie sich auf der Seite github an und gehen Sie auf die Projektseite
+https://github.com/dakli159/hallowelt
+
+7. Erstellen Sie einen "Pull-Request" um Ihren "feature-Branch" mit dem "master" zu vereinen.
+
+Achtung! Dieses Repository ist öffentlich. Tragen Sie also nur Ihren Vornamen, nicht Ihren Nachnamen ein.
+
+################
+Namensliste:
+-
+-
+-
+
+################
+freies Feld für weitere Änderungen:
+

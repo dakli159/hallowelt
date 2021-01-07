@@ -7,7 +7,7 @@ Wie übertragen Sie Ihre Änderungen in das Projekt?
 1. Bearbeiten Sie diese Datei
 
 2. Erstellen Sie einen eigenen "Branch" mit dem Namen feature-VORNAME (=Ihr Vorname)
-git checkout -m feature-VORNAME
+git checkout -b feature-VORNAME
 
 3. Fügen Sie alle Dateien dem Index hinzu:
 git add *
@@ -27,10 +27,9 @@ Achtung! Dieses Repository ist öffentlich. Tragen Sie also nur Ihren Vornamen, 
 
 ################
 Namensliste:
--
+- Josh
 -
 -
 
 ################
 freies Feld für weitere Änderungen:
-

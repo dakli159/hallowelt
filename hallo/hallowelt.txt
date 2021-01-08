@@ -12,6 +12,7 @@ git checkout -b feature-VORNAME
 3. Fügen Sie alle Dateien dem Index hinzu:
 git add *
 
+
 4. Führen Sie einen "Commit" durch:
 git commit -m "Commit-Nachricht"
 
@@ -27,10 +28,11 @@ Achtung! Dieses Repository ist öffentlich. Tragen Sie also nur Ihren Vornamen, 
 
 ################
 Namensliste:
--
+-Dennis
 -
 -
 
 ################
 freies Feld für weitere Änderungen:
+Hallo, kann mich jemand lesen? -Dennis
 

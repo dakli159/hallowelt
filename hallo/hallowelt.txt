@@ -28,11 +28,12 @@ Achtung! Dieses Repository ist öffentlich. Tragen Sie also nur Ihren Vornamen, 
 
 ################
 Namensliste:
--Dennis
--Laraa  
+- Josh
+- Dennis
+- Laraa  
 -
 
 ################
 freies Feld für weitere Änderungen:
 Hallo, kann mich jemand lesen? -Dennis
-
+Ja, klar und deutlich. -Josh

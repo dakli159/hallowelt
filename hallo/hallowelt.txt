@@ -12,6 +12,7 @@ git checkout -b feature-VORNAME
 3. Fügen Sie alle Dateien dem Index hinzu:
 git add *
 
+
 4. Führen Sie einen "Commit" durch:
 git commit -m "Commit-Nachricht"
 
